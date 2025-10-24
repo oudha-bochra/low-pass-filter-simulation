@@ -1,6 +1,5 @@
 # Low Pass Filter Simulation in Python
 
-This project simulates a "low-pass filter" using Python (NumPy, SciPy, Matplotlib) to remove high-frequency noise from a signal.
 This project demonstrates a "digital Low Pass Filter (LPF)" using Python, NumPy, SciPy, and Matplotlib.  
 It shows how high-frequency noise can be removed from a signal, leaving only the smooth low-frequency content.
 
