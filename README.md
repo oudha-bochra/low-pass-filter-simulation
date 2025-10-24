@@ -15,6 +15,7 @@ low-pass-filter-simulation/
 ├─ docs/
 │ └─ report.pdf
 └─ README.md
+└─License
 
 
 ## Steps
